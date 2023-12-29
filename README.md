@@ -13,7 +13,7 @@ The key features of the application.
 
 
 ## Deployed link
-[link](https://brafrontend.vercel.app/)
+[link](https://brafrontend-9342jqeil-srinivasgokarla.vercel.app/)
 
 ## Installation or How to run the app
 I created cloud database using MongoDb Atlas. So, if you want to run our code then please read the instructions below :
